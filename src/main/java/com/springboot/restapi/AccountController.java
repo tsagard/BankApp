@@ -1,5 +1,12 @@
 package com.springboot.restapi;
 
+
+//This is Controller:
+
+//Purpose: Handles HTTP requests and maps them to the appropriate service methods.
+//Role: Acts as an interface between the client and the service layer. 
+//Uses annotations like @RestController and @RequestMapping to define endpoints.
+
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;

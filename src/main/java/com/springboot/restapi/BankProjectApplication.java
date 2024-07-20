@@ -11,3 +11,8 @@ public class BankProjectApplication {
 	}
 
 }
+/*The main file contains the main method, 
+ * which is the entry point of the Spring Boot application. 
+ * This method is responsible for starting the entire application.
+ */
+ 
