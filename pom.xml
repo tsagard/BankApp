@@ -8,11 +8,12 @@
 		<version>3.3.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<groupId>com.springboot.Bank</groupId>
 	<artifactId>BankProject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>BankProject</name>
+	
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
@@ -69,7 +70,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>springbootdockerbank</finalName>
+	
 	</build>
 
 </project>
